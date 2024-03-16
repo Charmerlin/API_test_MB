@@ -1,7 +1,7 @@
 class Beers {
   final String price;
   final String name;
-  final BeerRating rating; // เปลี่ยนจาก List<double> เป็น BeerRating
+  final BeerRating rating;
   final String image;
   final int id;
 
